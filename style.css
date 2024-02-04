@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Adamina&family=Be+Vietnam+Pro&family=Bebas+Neue&family=League+Gothic&family=Playfair+Display+SC:wght@700&display=swap');
+body{
+    background-color: #D9D9D9;
+}
+.logo{
+    background-image: url(Rectangle\ 2.png);
+}
+header{
+    display:flex;
+}
+nav{
+    background-color: #5284CE;
+    font-family: Bebas Neue;
+}
+.head{
+    background-color: #DE6C1A;
+    font-family: League Gothic;
+}
+.courses_offerings{
+    font-family: Bebas Neue;
+}
+.unlimited_grind{
+    background-color: #5284CE;
+}
+.devices_page_text{
+    background-color: #F5F5F5;
+}
+.devices_page{
+    background-color: #F5F5F5;
+}
+.purchase_a_product_button{
+    font-family: Bebas Neue;
+}
+.company_description_h1{
+    font-family: Bebas Neue;
+}
+.company_description_p{
+    font-family: Adamina;
+}
+.elevator_pitch{
+    background-color: #FFF;
+}
+.elevator_pitch_h1{
+    font-family: Bebas Neue;
+}
+.elevator_pitch_p{
+    font-family: Bebas Neue;
+}
+.elevator_pitch_p2{
+    font-family: Be Vietnam;
+}
+.description_vision_social__media-description{
+    font-family: Adamina;
+}
+.description_vision_social__media-vision{
+    font-family: Bebas Neue; 
+}
+.description_vision_social__media-visions_description{
+    font-family: Adamina;
+}
+.description_vision_social__media-social__media{
+    font-family: Bebas Neue; 
+}
+.description_vision_social__media-social__media_apps{
+    font-family: Adamina;
+}
+.footer{
+    color: #FFF;
+    background-color: #000;
+    font-family: Bebas Neue; 
+}
+.footer_2{
+    color: #FFF;
+    background-color: #000;
+    font-family: Adamina;
+}
